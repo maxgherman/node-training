@@ -1,0 +1,25 @@
+{
+  "name": "lear-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "stream-adventure",
+    "verify": "stream-adventure verify",
+    "print": "stream-adventure print",
+    "help": "stream-adventure help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
+    "split2": "^3.2.2",
+    "stream-adventure": "^4.3.0",
+    "tar": "^6.0.5",
+    "through2": "^4.0.2",
+    "trumpet": "^1.7.2",
+    "ws": "^7.4.0"
+  }
+}

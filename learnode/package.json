@@ -1,0 +1,23 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "learnyounode",
+    "verify": "learnyounode verify",
+    "print": "learnyounode print",
+    "run": "learnyounode run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "learnyounode": "^4.2.2"
+  },
+  "dependencies": {
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  }
+}

@@ -8,7 +8,9 @@ Following exercises helped me pass [JSNAD certification](https://training.linuxf
 
 ## [Documentation](https://www.max-gherman.dev/blog/2021/02/07/jsnad-certification)
 
-## * [Labs](./labs) - exercises based on [Node.js 12 docs](https://nodejs.org/docs/latest-v12.x/api/)
+## Repo description
+
+### * [Labs](./labs) - exercises based on [Node.js 12 docs](https://nodejs.org/docs/latest-v12.x/api/)
     * Buffers
     * Child process
     * Control flow
@@ -21,7 +23,7 @@ Following exercises helped me pass [JSNAD certification](https://training.linuxf
     * Process
     * Stream
 
-## * [Learnode](./learnode) - exercises based on [learnyounode npm package](https://www.npmjs.com/package/learnyounode)
+### * [Learnode](./learnode) - exercises based on [learnyounode npm package](https://www.npmjs.com/package/learnyounode)
     * File system
     * HTTP Client
     * HTTP file server
@@ -31,12 +33,12 @@ Following exercises helped me pass [JSNAD certification](https://training.linuxf
     * Async IO
     * TCP Server
 
-## * [Scope-chains-closures](./scope-chains-closures) - exercises based on [scopes, chains and closures workshop](https://github.com/workshopper/scope-chains-closures)
+### * [Scope-chains-closures](./scope-chains-closures) - exercises based on [scopes, chains and closures workshop](https://github.com/workshopper/scope-chains-closures)
     * Scopes
     * Control flow (chaining)
     * Closures
 
-## * [Stream-adventure](./stream-adventure) - exercises based on [stream-adventure npm package](https://www.npmjs.com/package/stream-adventure)
+### * [Stream-adventure](./stream-adventure) - exercises based on [stream-adventure npm package](https://www.npmjs.com/package/stream-adventure)
     * File system streams
     * Process input, output streams
     * Readable stream

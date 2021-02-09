@@ -6,6 +6,8 @@ Following exercises helped me pass [JSNAD certification](https://training.linuxf
 
 ## [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/3bf351fe-8c3d-5973-b8d8-445fc261cba8-maxim-gherman-openjs-nodejs-application-developer-jsnad-certificate.pdf)
 
+## [Documentation](https://www.max-gherman.dev/blog/2021/02/07/jsnad-certification)
+
 ## * [Labs](./labs) - exercises based on [Node.js 12 docs](https://nodejs.org/docs/latest-v12.x/api/)
     * Buffers
     * Child process
